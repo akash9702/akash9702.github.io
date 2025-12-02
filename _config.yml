@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Akash's Academic Page"
+title                    : "Akash's Homepage"
 title_separator          : "-"
 name                     : &name "Akash Agrawal"
 description              : &description "Akash Agrawal's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "akash9702/akash9702.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photos/profile.jpeg"""
+  avatar           : "photos/profile.jpeg"
   name             : "Akash Agrawal"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar at MATS Program"
