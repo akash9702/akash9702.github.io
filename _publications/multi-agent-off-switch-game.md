@@ -2,7 +2,7 @@
 title: "The Multi-Agent Off-Switch Game"
 collection: publications
 category: workshops
-permalink: "../files/AAAI Multi-Agent Off-Switch Game.pdf"
+permalink: "/files/AAAI Multi-Agent Off-Switch Game.pdf"
 excerpt: ""
 date: 2025-11-07
 venue: 'AAAI 2026 Workshops on Foundations of Agentic Systems Theory (Oral presentation) and Trustworthy Agentic AI'
