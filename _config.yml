@@ -23,7 +23,7 @@ repository               : "akash9702/akash9702.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Akash Agrawal"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar at MATS Program"
