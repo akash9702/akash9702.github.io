@@ -4,7 +4,7 @@ collection: publications
 category: workshops
 permalink: /files/robust-rl-in-abm
 excerpt: ""
-date: 2025-11-07
+date: 2025-02-24
 venue: 'AAAI 2025 Workshop on Multi-Agent AI in the Real World (Best Paper Award, Oral presentation)'
 # slidesurl: ""
 # paperurl: 'https://academicpages.github.io/files/multi-agent-off-switch-game.pdf'
