@@ -24,13 +24,13 @@ repository               : "akash9702/akash9702.github.io"
 author:
   # Biographic information
   avatar           : "photos/profile.jpeg"""
-  name             : "Your Sidebar Name"
+  name             : "Akash Agrawal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Scholar at MATS Program"
+  location         : "London, UK"
+  employer         : "ML Alignment & Theory Scholars"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akashag9702@gmail.com" 
 
   # Academic websites
   academia         : # URL
