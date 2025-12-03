@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working in Cooperative AI and I'm a research scholar at the [MATS Program](https://www.matsprogram.org). In the past, I did a Master's from Oxford, where I was advised by with Prof. Michael Wooldridge and Dr. Joel Dyer and a Bachelor's from IIT Delhi, where I was adviced by Prof. Abhijnan Chakraborty and Prof. Keerti Choudhary.
+I am a researcher working in Cooperative AI and I'm a research scholar at the [MATS Program](https://www.matsprogram.org). In the past, I did a Master's from Oxford, where I was advised by with Prof. Michael Wooldridge and Dr. Joel Dyer; and a Bachelor's from IIT Delhi, where I was adviced by Prof. Abhijnan Chakraborty and Prof. Keerti Choudhary.
 
-I'm most motivated by working on interesting and foundational theoretical . You can read more about my research [here](https://akash9702.github.io/publications/).
+I'm most motivated by foundational questions that are best approached theoretically, particularly when answering them could meaningfully benefit society but commercial pressures aren't strong enough to solve them. You can read more about my research [here](https://akash9702.github.io/publications/). I'm always happy to chat with those who [drop a line](mailto:akashag9702@gmail.com).
