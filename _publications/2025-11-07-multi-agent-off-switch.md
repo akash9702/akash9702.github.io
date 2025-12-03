@@ -8,7 +8,7 @@ date: 2025-11-07
 venue: 'AAAI 2026 Workshops on Foundations of Agentic Systems Theory (Oral presentation) and Trustworthy Agentic AI'
 status: "to_appear"
 # slidesurl: ""
-paperurl: 'https://academicpages.github.io/files/multi-agent-off-switch-game.pdf'
+# paperurl: 'https://academicpages.github.io/files/multi-agent-off-switch-game.pdf'
 paperurl: '/files/multi-agent-off-switch.pdf'
 # bibtexurl: ""
 citation: 'Akash Agrawal*, Soroush Ebadian*, and Lewis Hammond. (2009). &quot;The Multi-Agent Off-Switch Game.&quot; <i>AAAI 2026 Workshop on Foundations of Agentic Systems Theory</i>. 1(1).'
