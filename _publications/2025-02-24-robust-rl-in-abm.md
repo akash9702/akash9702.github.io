@@ -10,7 +10,7 @@ venue: 'AAAI 2025 Workshop on Multi-Agent AI in the Real World (Best Paper Award
 # paperurl: 'https://academicpages.github.io/files/multi-agent-off-switch-game.pdf'
 paperurl: '/files/robust-rl-in-abm.pdf'
 # bibtexurl: ""
-citation: 'Akash Agrawal, Joel Dyer, Aldo Glielmo, and Michael Wooldridge. (2009). &quot;Robust Policy Design in Agent-Based Simulators using Adversarial Reinforcement Learning.&quot; <i>AAAI 2025 Workshop on Multi-Agent AI in the Real World</i>. 1(1).'
+# citation: 'Akash Agrawal, Joel Dyer, Aldo Glielmo, and Michael Wooldridge. (2009). &quot;Robust Policy Design in Agent-Based Simulators using Adversarial Reinforcement Learning.&quot; <i>AAAI 2025 Workshop on Multi-Agent AI in the Real World</i>. 1(1).'
 ---
 Agent-based models (ABMs) of complex socioeconomic systems provide policymakers with highly detailed synthetic environments in which policy interventions can be designed and optimised, for example through reinforcement learning (RL). Although they model systems at a fine level of granularity, ABMs will in general be imperfectly specified, such that there exists non-negligible distributional shifts between agent-based simulators and the complex socioeconomic systems they attempt to model. Policies that are tested and optimised in these simulated environments may therefore exhibit brittleness in the face of such distributional shifts, presenting a challenge to the use of ABMs in real-world policy design.
 
