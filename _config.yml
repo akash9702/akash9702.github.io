@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar at MATS Program"
   location         : "London, UK"
-  employer         : "ML Alignment & Theory Scholars"
+  employer         : # employer name
   uri              : # URL
   email            : "akashag9702@gmail.com" 
 
