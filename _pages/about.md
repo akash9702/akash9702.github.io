@@ -14,7 +14,7 @@ I'm most motivated by foundational questions in AI that are best approached theo
 
 ## News
 
-* **November 2025:** Our paper on [multi-agent shutdownability](https://akash9702.github.io/files/multi-agent-off-switch.pdf) has been selected for Oral presentation at AAAI 2026's FAST workshop and as a poster at AAAI 2026's TrustAgent Workshop. I'll be presenting them in Singapore -- see you there!
+* **November 2025:** Our paper on [multi-agent shutdownability](https://akash9702.github.io/files/multi-agent-off-switch.pdf) has been selected at 2 AAAI 2026 Workshops: FAST (Oral presentation) and TrustAgent. I'll be presenting them in Singapore -- see you there!
 * **August 2025:** I've been selected as a MATS Extension Research Scholar till 2026.
 * **June 2025:** I'll be at the Cooperative AI Summer School in Marlow, UK.
 * **May 2025:** I've been selected as a MATS Research Scholar for the Summer of 2025.
