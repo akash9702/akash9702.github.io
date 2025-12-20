@@ -5,7 +5,8 @@ category: workshops
 permalink: /files/multi-agent-off-switch
 excerpt: ""
 date: 2025-11-07
-venue: 'AAAI 2026 Workshops on Foundations of Agentic Systems Theory (Oral presentation) and Trustworthy Agentic AI'
+venue: 'International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2026'
+# venue: 'AAAI 2026 Workshops on Foundations of Agentic Systems Theory (Oral presentation) and Trustworthy Agentic AI'
 status: "to_appear"
 # slidesurl: ""
 # paperurl: 'https://academicpages.github.io/files/multi-agent-off-switch-game.pdf'
