@@ -4,7 +4,7 @@ collection: publications
 category: workshops
 permalink: /files/multi-agent-off-switch
 excerpt: ""
-date: 2026-xx-xx
+date: 2026-01-27
 multiple-venues: 'True'
 venue: 'International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2026'
 also_at: "AAAI 2026 Workshops on Foundations of Agentic Systems Theory (FAST) and Trustworthy Agentic AI (TrustAgent)"
