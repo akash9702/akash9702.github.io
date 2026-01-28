@@ -17,7 +17,7 @@ I'm most motivated by foundational questions in AI that are best approached theo
 * **January 2026:** Honoured to be awarded the Cooperative AI Foundation's PhD fellowship!
 * **December 2025:** Our paper on [multi-agent shutdownability](https://akash9702.github.io/files/multi-agent-off-switch.pdf) has been accepted at AAMAS 2026 as a full paper!
 * **November 2025:** I'll be attending AAAI 2026 and three associated workshops: FAST, TrustAgent, and AIGov.
-* **November 2025:** Our paper on multi-agent shutdownability has been accepted at 2 AAAI 2026 Workshops: FAST (Oral presentation) and TrustAgent.
+* **November 2025:** Our paper on multi-agent shutdownability has been accepted at 2 AAAI '26 Workshops: FAST (oral) and TrustAgent.
 <!-- * **August 2025:** I've been selected as a MATS Extension Research Scholar and will be continuing till mid-2026. -->
 * **June 2025:** I'll be attending the Cooperative AI Summer School 2025 in Marlow, UK.
 <!-- * **May 2025:** I've been selected as a research scholar at MATS where I'll be advised by Lewis Hammond. -->
