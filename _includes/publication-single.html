@@ -1,0 +1,30 @@
+{% include base_path %}
+
+{%- comment -%}
+  Minimal publication row: title links straight to the PDF (falls back to the
+  abstract page if no paperurl), with an abbreviated venue line and any honor
+  (Oral, Best Paper, …) shown in muted gold.
+{%- endcomment -%}
+
+{%- if post.paperurl -%}
+  {%- if post.paperurl contains '://' -%}
+    {%- assign pub_link = post.paperurl -%}
+  {%- else -%}
+    {%- assign pub_link = post.paperurl | prepend: base_path -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign pub_link = post.url | prepend: base_path -%}
+{%- endif -%}
+
+{%- assign venue_line = post.venue_short | default: post.venue -%}
+
+<article class="pub" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  <h3 class="pub__title" itemprop="headline">
+    <a href="{{ pub_link }}" itemprop="url">{{ post.title }}</a>
+  </h3>
+  <p class="pub__meta">
+    {%- if venue_line -%}<span class="pub__venue">{{ venue_line }}</span>{%- endif -%}
+    {%- if post.honor -%} <span class="pub__honor">{{ post.honor }}</span>{%- endif -%}
+    {%- if post.also_short -%}<span class="pub__sep" aria-hidden="true">&middot;</span><span class="pub__venue pub__venue--secondary">{{ post.also_short }}</span>{%- if post.also_honor -%} <span class="pub__honor">{{ post.also_honor }}</span>{%- endif -%}{%- endif -%}
+  </p>
+</article>

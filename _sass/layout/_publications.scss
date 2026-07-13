@@ -1,0 +1,94 @@
+/* ==========================================================================
+   PUBLICATIONS — minimal, editorial list
+   ========================================================================== */
+
+.publications-intro {
+  margin: 0 0 2.25em;
+  font-size: 0.8em;
+  letter-spacing: 0.01em;
+  color: var(--global-meta-color);
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+    text-decoration-color: var(--global-dark-border-color);
+  }
+
+  a:hover,
+  a:focus {
+    color: var(--global-honor-color);
+    text-decoration-color: currentColor;
+  }
+}
+
+/* Section label: "Conference Papers", "Workshop Papers", … */
+.pub-category {
+  margin: 2.5em 0 1.1em;
+  font-size: 0.72em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--global-meta-color);
+  border: 0;
+
+  &:first-of-type {
+    margin-top: 1em;
+  }
+}
+
+/* A single publication */
+.pub {
+  margin: 0 0 1.45em;
+
+  &__title {
+    margin: 0 0 0.2em;
+    font-size: 1.12em;
+    font-weight: 500;
+    line-height: 1.4;
+    letter-spacing: -0.003em;
+
+    a {
+      color: var(--global-text-color);
+      text-decoration: none;
+      background: none;
+      transition: color 0.15s ease-in-out;
+    }
+
+    a:hover,
+    a:focus {
+      color: var(--global-honor-color);
+      text-decoration: none;
+    }
+  }
+
+  &__meta {
+    margin: 0;
+    font-size: 0.86em;
+    line-height: 1.5;
+    color: var(--global-meta-color);
+  }
+
+  &__venue {
+    color: var(--global-meta-color);
+  }
+
+  &__venue--secondary {
+    opacity: 0.9;
+  }
+
+  &__sep {
+    margin: 0 0.55em;
+    opacity: 0.55;
+  }
+
+  &__honor {
+    margin-left: 0.45em;
+    color: var(--global-honor-color);
+    font-style: italic;
+
+    &::before { content: "("; }
+    &::after  { content: ")"; }
+  }
+}

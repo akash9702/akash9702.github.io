@@ -1,13 +1,15 @@
 ---
 title: "The Multi-Agent Off-Switch Game"
 collection: publications
-category: workshops
+category: conferences
 permalink: /files/multi-agent-off-switch
 excerpt: ""
 date: 2026-01-27
 multiple-venues: 'True'
 venue: 'International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2026'
 also_at: "AAAI 2026 Workshops on Foundations of Agentic Systems Theory (FAST) and Trustworthy Agentic AI (TrustAgent)"
+# --- display-only fields for the minimal publications list ---
+venue_short: "AAMAS 2026"
 # venue: 'AAAI 2026 Workshops on Foundations of Agentic Systems Theory (Oral presentation) and Trustworthy Agentic AI'
 status: "to_appear"
 # slidesurl: ""

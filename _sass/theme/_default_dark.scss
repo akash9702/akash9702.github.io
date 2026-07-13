@@ -51,4 +51,8 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
+
+    /* Minimal publications list */
+    --global-meta-color                 : #b7bbbf;
+    --global-honor-color                : #c7a35c;
 }
