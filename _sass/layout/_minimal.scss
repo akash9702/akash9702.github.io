@@ -1,0 +1,31 @@
+/* ==========================================================================
+   MINIMAL REFINEMENTS — site-wide restraint (type, links, nav, news)
+   ========================================================================== */
+
+/* Page titles: a touch lighter and tighter for a more editorial feel */
+.page__title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* News list on the homepage → a clean, bulletless feed with breathing room */
+#news + ul {
+  margin: 0.5em 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0.85em;
+    line-height: 1.55;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+}
+
+/* Masthead: refine the chunky hover underline to a thin, muted rule */
+.greedy-nav .visible-links a:before {
+  height: 2px;
+  background: var(--global-link-color);
+}
