@@ -14,6 +14,7 @@ I'm most motivated by foundational questions in AI that are best approached theo
 
 ## News
 
+* **August 2026:** Our multi-agent shutdownability work was recognised with a Best Poster Runner-Up Award at the Cooperative AI Summer School 2026; and our summer school project on SPIs with imperfect recall was awarded with Best Project.
 * **January 2026:** Honoured to be awarded the Cooperative AI Foundation's [PhD fellowship](https://www.cooperativeai.com/post/announcing-the-2026-cooperative-ai-phd-fellows)!
 * **December 2025:** Our paper on [multi-agent shutdownability](https://akash9702.github.io/files/multi-agent-off-switch.pdf) has been accepted at AAMAS 2026 as a full paper!
 * **November 2025:** I'll be attending AAAI 2026 and three associated workshops: FAST, TrustAgent, and AIGov.
